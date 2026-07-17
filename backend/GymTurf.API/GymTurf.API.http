@@ -1,0 +1,6 @@
+@GymTurf.API_HostAddress = http://localhost:5264
+
+GET {{GymTurf.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="GymTurf.API/GymTurf.API.csproj" />
+  <Project Path="GymTurf.Application/GymTurf.Application.csproj" />
+  <Project Path="GymTurf.Domain/GymTurf.Domain.csproj" />
+  <Project Path="GymTurf.Infrastructure/GymTurf.Infrastructure.csproj" />
+  <Project Path="GymTurf.Migrations/GymTurf.Migrations.csproj" />
+  <Project Path="GymTurf.Tests/GymTurf.Tests.csproj" />
+</Solution>
